@@ -24,4 +24,4 @@
     "require-dev": {
         "phpunit/phpunit": "*"
     }
-}'
+}
